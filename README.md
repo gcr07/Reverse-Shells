@@ -160,9 +160,11 @@ function printit ($string) {
 
 ```
 
+Bibliografias
 
+> https://sushant747.gitbooks.io/total-oscp-guide/content/webshell.html
 
-
+> https://www.acunetix.com/blog/articles/web-shells-101-using-php-introduction-web-shells-part-2/
 
 
 
